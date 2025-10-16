@@ -1,0 +1,7 @@
+Python 3.10+ recomendado.
+Usar librería keyboard:
+https://github.com/boppreh/keyboardEnlaces a un sitio externo.
+
+
+
+
